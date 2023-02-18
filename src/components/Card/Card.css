@@ -1,0 +1,11 @@
+.card{
+    width: fit-content;
+    border: 2px yellow solid;
+    border-radius: 15px;
+    background-color: rgba(128, 128, 128, 0.429);
+}
+
+img{
+    border-radius: 20px;
+}
+

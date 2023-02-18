@@ -1,0 +1,13 @@
+.nav{
+    width: auto;
+    padding: 5px;
+    border: 2px solid red;
+    text-align: right;
+    background-color: rgba(209, 209, 66, 0.434);
+    border-radius: 10px;
+}
+
+.links{
+    display: inline;
+    padding: 5px;
+}
