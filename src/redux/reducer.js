@@ -34,7 +34,7 @@ export default function rootReducer(state = initialState, action){
                     if(b.id < a.id) return -1
                 }
                 return 0
-            })//HAY UN PROBLEMA QUE NO ORDENA BIEN LAS CARDS
+            })
             return{
                 ...state,
                 myFavorites: [...orderChar]
